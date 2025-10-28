@@ -72,12 +72,3 @@ You need to have the following installed on your system:
 ## 🛣️ City Graph Representation
 
 The graph is an undirected, weighted graph where the nodes are 11 major Algerian cities (indexed 1 through 11), and the weights (distances) are abstracted from the Euclidean distance between their hardcoded screen coordinates on the map.
-
-| Index | City Name | Index | City Name |
-| :---: | :---: | :---: | :---: |
-| 1 | Alger | 7 | Laghoat |
-| 2 | Oran | 8 | Ouargla |
-| 3 | Saida | 9 | Adrar |
-| 4 | Djelfa | 10 | Illizi |
-| 5 | Skikda | 11 | Tamanrasset |
-| 6 | Biskra | | |
