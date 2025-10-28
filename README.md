@@ -38,7 +38,7 @@ You need to have the following installed on your system:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your-Repository-URL]
+    git clone [[Your-Repository-URL]](https://github.com/Ogrimagy/Algeria_Traffic.git)
     cd Project
     ```
 
